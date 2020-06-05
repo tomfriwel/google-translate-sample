@@ -4,7 +4,7 @@
 
 2. Change the url `https://translate.google.com` to `https://translate.google.cn` in `node_modules/google-translate-api/index.js` and `node_modules/google-translate-token/index.js` files.
 
-3. Finally run `$ node index.js`
+3. Finally excute `$ node index.js`
 
 If all goes well, you'll see the output:
 ```
